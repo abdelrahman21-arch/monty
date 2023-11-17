@@ -2,7 +2,7 @@
  * File: stack.c
  * Auth: Sweilam
 */
-#include "monty_header.h"
+#include "monty.h"
 #include <string.h>
 void free_stack(stack_t **stack_p);
 int init_stack(stack_t **stack_p);

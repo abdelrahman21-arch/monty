@@ -2,7 +2,7 @@
  * file: monty_functions2.c
  * Author: sweilam
 */
-#include "monty_header.h"
+#include "monty.h"
 void monty_nop(stack_t **stack_p, unsigned int line_number);
 void monty_add(stack_t **stack_p, unsigned int line_number);
 

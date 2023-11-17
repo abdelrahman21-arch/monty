@@ -2,7 +2,7 @@
  * file: erros1.c
  * Author: Sweilam
 */
-#include "monty_header.h"
+#include "monty.h"
 int usage_error(void);
 int malloc_error(void);
 int f_open_error(char *filename);

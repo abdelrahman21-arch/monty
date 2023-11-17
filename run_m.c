@@ -2,7 +2,7 @@
  * File: run_m.c
  * Auth: sweilam
 */
-#include "monty_header.h"
+#include "monty.h"
 #include <string.h>
 void free_tokens(void);
 int is_line_empty(char *line, char *delims);
